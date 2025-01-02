@@ -1,4 +1,3 @@
-#Álex Capelani Pauletti, 2024006596, BSI24
 import csv
 import math
 
